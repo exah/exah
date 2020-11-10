@@ -3,7 +3,7 @@
 import Head from 'next/head'
 import CV from '../CV.md'
 import { css } from '@emotion/core'
-import { Page, H1, ContactLinks } from '../components'
+import { Page, Name, ContactLinks } from '../components'
 
 function Index() {
   return (
@@ -16,7 +16,7 @@ function Index() {
           grid-area: header;
         `}
       >
-        <H1>Ivan Grishin</H1>
+        <Name />
       </header>
       <nav
         css={css`
@@ -36,8 +36,8 @@ function Index() {
           css={css`
             font: inherit;
             cursor: pointer;
-
             appearance: none;
+            color: inherit;
             background: none;
             border: none;
             display: block;
