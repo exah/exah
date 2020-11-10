@@ -1,6 +1,6 @@
 ## Work
 
-I started working in the web around 11 years ago as a designer + developer when I went to [the university](https://design.hse.ru). For the past 5 years, I'm working as a web software engineer.
+I started working in the web around 11 years ago as a designer + developer when I went to [the university](https://design.hse.ru). For the past 5 years, I've been a web software engineer.
 
 
 ### Lead Web Software Engineer @ [Revolut](https://revolut.com/) <br /> November 2018 - Now
@@ -24,7 +24,7 @@ I moved to the Revolut London office in December 2019 while working on the first
 </details>
 
 
-### Web Developer @ [Strelka Institute](http://strelka.com) <br /> December 2015 - November 2018
+### Web Developer @ [Strelka&nbsp;Institute](http://strelka.com) <br /> December 2015 - November 2018
 
 I started working in a small team of 3 people (designer, developer, and project manager) as a second developer. At first, I helped with current projects. Next, we developed a site for partnering educational programs with the Higher School of Economics ([advancedurbandesign.com](http://advancedurbandesign.com)) and a special project based on research done by Strelka students about malls in Seoul ([the-m-all.com](http://the-m-all.com)). Both projects my first from start to finish front-end development work at Strelka.
 
@@ -78,7 +78,7 @@ Since the middle of 2016 worked as a lead web developer and the biggest projects
 </details>
 
 
-### Designer / Developer @ Foremost Design <br /> 2012 - December 2015
+### Designer + Developer @ Foremost&nbsp;Design <br /> 2012 - December 2015
 
 Small independent studio in Moscow. No longer exists.
 
@@ -86,7 +86,7 @@ Small independent studio in Moscow. No longer exists.
 - Web and iOS UI designer (Sketch, Adobe PhotoShop, Illustrator, and After Effects)
 
 
-### Designer / Developer @ Personal/Freelance <br /> December 2009 - Now
+### Designer + Developer @ Personal or Freelance <br /> December 2009 - Now
 
 <details>
 <summary>Projects</summary>
@@ -132,7 +132,7 @@ Small independent studio in Moscow. No longer exists.
 
 ### Interface Development School @ [Yandex](https://yandex.ru/promo/academy/shri) <br /> September 2015 - November 2015
 
-### Bachelor of Design @ [Higher School of Economics](https://design.hse.ru) <br /> 2009 – 2013
+### Bachelor of Design @ [HSE](https://design.hse.ru) <br /> 2009 – 2013
 
 
 ## Skills

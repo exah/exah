@@ -25,6 +25,12 @@ export const Global = () => (
         min-height: 100%;
       }
 
+      @media screen and (max-width: 500px) {
+        :root {
+          font-size: 13px;
+        }
+      }
+
       @media print {
         :root {
           font-size: 10px;
