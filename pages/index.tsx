@@ -42,6 +42,10 @@ function Index() {
             border: none;
             display: block;
             margin: 2rem auto;
+
+            @media print {
+              display: none;
+            }
           `}
         >
           Print this page 🖨

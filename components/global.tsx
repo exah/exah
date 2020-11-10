@@ -4,9 +4,16 @@ export const Global = () => (
   <EmotionGlobal
     styles={css`
       :root {
+        --fg: black;
+        --bg: white;
+        --link: blue;
+
         box-sizing: border-box;
         font-family: 'iA Writer Duospace', -apple-system, BlinkMacSystemFont,
           'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+
+        color: var(--fg, white);
+        background: var(--bg, white);
       }
 
       *,
@@ -15,14 +22,13 @@ export const Global = () => (
         box-sizing: inherit;
       }
 
+      :link {
+        color: var(--link, blue);
+      }
+
       html,
       body {
         margin: 0;
-        height: 100%;
-      }
-
-      #__next {
-        min-height: 100%;
       }
 
       @media screen and (max-width: 500px) {
@@ -36,15 +42,10 @@ export const Global = () => (
           font-size: 10px;
         }
 
-        a,
-        a:visited {
+        :link,
+        :visited {
           text-decoration: underline;
           color: inherit;
-        }
-
-        button,
-        details {
-          display: none;
         }
       }
     `}

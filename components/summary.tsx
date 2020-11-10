@@ -15,4 +15,8 @@ export const Summary = styled('summary')`
       content: '- ';
     }
   }
+
+  @media print {
+    display: none;
+  }
 `
