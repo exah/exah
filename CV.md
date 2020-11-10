@@ -1,13 +1,13 @@
 ## Work
 
-I started working in the web around 11 years ago as a designer + developer when I went to [the university](https://design.hse.ru). For the past 5 years, I've been a web software engineer.
+I started working in the web around 11 years ago as a designer + developer when I went to [university](https://design.hse.ru). For the past 5 years, I've been a web software engineer.
 
 
 ### Lead Web Software Engineer @ [Revolut](https://revolut.com/) <br /> November 2018 - Now
 
-I joined Revolut Moscow office in November 2018 as Senior Web Software Engineer inside [Revolut Business](https://business.revolut.com) team with a promise that I will work on a new acquiring product. From the start I discovered their shared component library and, as I had experience in creating similar libraries in my previous job, I took ownership of maintaining and improving the project.
+I joined Revolut Moscow office in November 2018 as a Senior Web Software Engineer inside [Revolut Business](https://business.revolut.com) team. Alongside the acquiring solution, I developed a shared component library used by more than 10 projects inside the company because I had had prior experience of working on a similar project before.
 
-I moved to the Revolut London office in December 2019 while working on the first public beta release of our acquiring product. In July 2020 I got promoted to be Lead Web Software Engineer and right now creating a new team for building a web design system.
+I moved to the Revolut London office in December 2019 while working on the first public beta release of our acquiring product. In July 2020 I got promoted to Lead Web Software Engineer and right now creating a new team for building a web design system.
 
 <details>
 <summary>Projects</summary>
@@ -26,7 +26,7 @@ I moved to the Revolut London office in December 2019 while working on the first
 
 ### Web Developer @ [Strelka&nbsp;Institute](http://strelka.com) <br /> December 2015 - November 2018
 
-I started working in a small team of 3 people (designer, developer, and project manager) as a second developer. At first, I helped with current projects. Next, we developed a site for partnering educational programs with the Higher School of Economics ([advancedurbandesign.com](http://advancedurbandesign.com)) and a special project based on research done by Strelka students about malls in Seoul ([the-m-all.com](http://the-m-all.com)). Both projects my first from start to finish front-end development work at Strelka.
+I started working in a small team of 3 people (designer, developer, and project manager) as a second developer. At first, I helped with current projects. Next, we developed a site for partnering educational programs with the Higher School of Economics ([advancedurbandesign.com](http://advancedurbandesign.com)) and a special project based on research done by Strelka students about malls in Seoul ([the-m-all.com](http://the-m-all.com)). These were my first serious end-to-end projects in the trade.
 
 Since the middle of 2016 worked as a lead web developer and the biggest projects for me were the next version of strelka.com (never released) and [strelkamag.com](https://strelkamag.com). For both, I developed a WYSIWYG editor and shared component/design system library.
 
