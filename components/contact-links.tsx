@@ -27,7 +27,7 @@ export function ContactLinks() {
   return (
     <List>
       {CONTACT_LINKS.map((item) => (
-        <ListItem>
+        <ListItem key={item.url}>
           <a href={item.url} target="blank" rel="noopener noreferrer">
             {item.name}
           </a>

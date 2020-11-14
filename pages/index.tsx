@@ -1,9 +1,9 @@
-/** @jsxImportSource @emotion/core */
+/** @jsxImportSource @emotion/react */
 
 import Head from 'next/head'
 import CV from '../CV.md'
-import { css } from '@emotion/core'
 import { ContactLinks, Name, Page, PrintButton } from '../components'
+import { css } from '@emotion/react'
 
 function Index() {
   return (

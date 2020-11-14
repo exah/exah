@@ -1,4 +1,4 @@
-import { Global as EmotionGlobal, css } from '@emotion/core'
+import { Global as EmotionGlobal, css } from '@emotion/react'
 
 export const Global = () => (
   <EmotionGlobal

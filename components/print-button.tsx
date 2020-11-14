@@ -1,6 +1,6 @@
-/** @jsxImportSource @emotion/core */
+/** @jsxImportSource @emotion/react */
 
-import { css } from '@emotion/core'
+import { css } from '@emotion/react'
 import { ButtonBase } from './button-base'
 
 export const PrintButton = () => (
