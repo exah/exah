@@ -160,4 +160,3 @@ Small independent studio in Moscow. No longer exists.
 - Figma, Sketch, Framer, Adobe Photoshop, Illustrator, After Effects
 - English (IELT 7), Russian (native), Ukrainian
 - Prefer macOS
-
