@@ -1,26 +1,38 @@
 import styled from '@emotion/styled'
 
 export const Text = styled('p')`
-  margin: 1rem 0;
+  margin: var(--s-2) 0;
 
-  &:first-child {
+  &:first-of-type {
     margin-top: 0;
   }
 `
 
-export const H1 = Text.withComponent('h1')
+export const H1 = styled(Text)``
 
-export const H2 = styled(Text.withComponent('h2'))`
-  margin-top: 2.5rem;
-  margin-bottom: 1.5rem;
+H1.defaultProps = { as: 'h1' }
+
+export const H2 = styled(Text)`
+  margin-top: var(--s-5);
+  margin-bottom: var(--s-3);
 `
 
-export const H3 = styled(Text.withComponent('h3'))`
-  margin-top: 2rem;
+H2.defaultProps = { as: 'h2' }
+
+export const H3 = styled(Text)`
+  margin-top: var(--s-4);
 `
 
-export const H4 = Text.withComponent('h4')
+H3.defaultProps = { as: 'h3' }
 
-export const H5 = Text.withComponent('h5')
+export const H4 = styled(Text)``
 
-export const H6 = Text.withComponent('h6')
+H4.defaultProps = { as: 'h4' }
+
+export const H5 = styled(Text)``
+
+H5.defaultProps = { as: 'h5' }
+
+export const H6 = styled(Text)``
+
+H6.defaultProps = { as: 'h6' }

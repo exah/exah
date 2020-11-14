@@ -3,12 +3,12 @@ import styled from '@emotion/styled'
 export const List = styled('ul')`
   list-style: none;
   padding: 0;
-  margin: 1rem 0;
+  margin: var(--s-2) 0;
 `
 
 export const ListItem = styled('li')`
   padding-left: 2ch;
-  margin-bottom: 0.5rem;
+  margin-bottom: var(--s-1);
 
   ::before {
     content: '- ';
@@ -17,7 +17,7 @@ export const ListItem = styled('li')`
   }
 
   ${List} {
-    margin-top: 0.5rem;
+    margin-top: var(--s-1);
     margin-left: 2ch;
   }
 `

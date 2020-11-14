@@ -1,3 +1,6 @@
+/** @jsxImportSource @emotion/react */
+
+import { css } from '@emotion/react'
 import { List, ListItem } from './list'
 
 const CONTACT_LINKS = [
@@ -25,7 +28,11 @@ const CONTACT_LINKS = [
 
 export function ContactLinks() {
   return (
-    <List>
+    <List
+      css={css`
+        margin-top: var(--s-1);
+      `}
+    >
       {CONTACT_LINKS.map((item) => (
         <ListItem key={item.url}>
           <a href={item.url} target="blank" rel="noopener noreferrer">
