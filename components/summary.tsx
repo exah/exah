@@ -8,15 +8,19 @@ export const Summary = styled('summary')`
     display: none;
   }
 
-  ::before {
-    content: '+ ';
+  @media screen {
+    ::before {
+      content: '+ ';
 
-    details[open] & {
-      content: '- ';
+      details[open] & {
+        content: '- ';
+      }
     }
   }
 
   @media print {
-    display: none;
+    details:not([open]) & {
+      display: none;
+    }
   }
 `
