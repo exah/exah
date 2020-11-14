@@ -3,7 +3,7 @@
 import Head from 'next/head'
 import CV from '../CV.md'
 import { css } from '@emotion/core'
-import { Page, Name, ContactLinks } from '../components'
+import { ContactLinks, Name, Page, PrintButton } from '../components'
 
 function Index() {
   return (
@@ -27,30 +27,19 @@ function Index() {
       </nav>
       <main
         css={css`
-          grid-area: content;
+          grid-area: main;
         `}
       >
         <CV />
-        <button
-          onClick={() => window.print()}
-          css={css`
-            font: inherit;
-            cursor: pointer;
-            appearance: none;
-            color: inherit;
-            background: none;
-            border: none;
-            display: block;
-            margin: 2rem auto;
-
-            @media print {
-              display: none;
-            }
-          `}
-        >
-          Print this page 🖨
-        </button>
       </main>
+      <footer
+        css={css`
+          grid-area: footer;
+          margin-top: 2rem;
+        `}
+      >
+        <PrintButton />
+      </footer>
     </Page>
   )
 }

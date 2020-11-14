@@ -13,7 +13,8 @@ const PageGrid = styled('div')`
   grid-template-columns: repeat(4, 1fr);
   grid-template-areas:
     'header header header nav'
-    'content content content content';
+    'main main main main'
+    'footer footer footer footer';
 
   max-width: 80ch;
   margin: 0 auto;
