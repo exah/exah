@@ -14,15 +14,12 @@ export const Global = () => (
         --s-5: calc(var(--s-step, 0) * 5);
         --s-6: calc(var(--s-step, 0) * 6);
 
-        --c-fg: black;
-        --c-bg: white;
-        --c-link: blue;
-
         --f-system: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto,
           Helvetica, Arial;
         --f-brand: 'iA Writer Duospace';
         --g-article: 'header header header nav' 'main main main main'
           'footer footer footer footer';
+        --r-round: 9999px;
 
         @media screen and (max-width: 500px) {
           --s-rem: 13px;
@@ -45,12 +42,18 @@ export const Global = () => (
         font-family: var(--f-brand, ''), var(--f-system, ''), sans-serif;
         font-size: var(--s-rem, 100%);
         color: var(--c-fg, black);
-        background: var(--c-bg, white);
+        background-color: var(--c-bg, white);
         text-size-adjust: 100%;
+        transition-property: background-color, color;
+        transition-duration: 0.3s;
       }
 
       :link {
-        color: var(--c-link, blue);
+        color: var(--c-link-base, blue);
+      }
+
+      :visited {
+        color: var(--c-link-visited, purple);
       }
 
       :link,
