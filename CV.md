@@ -1,4 +1,4 @@
-## Work
+## Summary 
 
 Web Software Engineer with ~12 years of experience. I began my journey in design, transitioned into web development, and eventually took on leadership roles, guiding teams. I'm proficient in creating design systems, love working on component libraries, tools, and enhancing user experience. I've participated in a wide range of projects, from design-focused non-profits to fintech startups.
 
