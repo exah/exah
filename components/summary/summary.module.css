@@ -1,0 +1,24 @@
+.root {
+  list-style-type: none;
+  font-weight: bold;
+}
+
+.root::-webkit-details-marker {
+  display: none;
+}
+
+@media screen {
+  .root::before {
+    content: '+ ';
+  }
+
+  details[open] .root::before {
+    content: '- ';
+  }
+}
+
+@media print {
+  details:not([open]) .root {
+    display: none;
+  }
+}

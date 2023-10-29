@@ -1,0 +1,16 @@
+.root {
+  margin: var(--s-2) 0;
+}
+
+.root:first-of-type {
+  margin-top: 0;
+}
+
+.h2 {
+  margin-top: var(--s-5);
+  margin-bottom: var(--s-3);
+}
+
+.h3 {
+  margin-top: var(--s-4);
+}

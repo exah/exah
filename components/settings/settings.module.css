@@ -1,0 +1,13 @@
+.root {
+  position: fixed;
+
+  right: var(--s-1);
+  bottom: var(--s-1);
+  z-index: 2;
+
+  display: grid;
+  place-items: center;
+
+  width: var(--s-4);
+  height: var(--s-4);
+}
