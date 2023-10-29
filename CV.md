@@ -11,7 +11,7 @@ I joined Apron Payments, a recently created startup with a small team of ~15 peo
 <summary>Projects</summary>
 
 - 2023: [getapron.com](https://getapron.com)
-- 2022: [Apron Payments App](https://app.getapron.com) - - participated in the development of every feature, created a shared component library & design system
+- 2022: [Apron Payments App](https://app.getapron.com) - participated in the development of every feature, created a shared component library & design system
 
 </details>
 
