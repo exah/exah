@@ -160,20 +160,17 @@ Small independent design studio in Moscow. The company no longer exist.
 
 ### Development
 
-- Component libraries, Design systems
-- TypeScript, JavaScript, CoffeScript, PHP, Swift 5
-- Styled Components (Glamorous, Emotion, Stitches), (S)CSS, Stylus
+- Creating libraries, design systems
+- TypeScript, JavaScript, Swift v5+
+- CSS-in-JS, (S)CSS, Stylus
 - HTML, Markdown, Pug
-- Unit / integration testing with Testing Library
-- Node.js (8.0+), Deno 1.0
+- Unit & E2E testing
+- Node.js v8+, Deno v1+
 - React, SwiftUI (beginner), Vue.js, Blaze, jQuery
-- Redux, Vuex
-- Express, Feathers, Meteor
-- MongoDB
-- REST API, Web Sockets
-- Rollup, Webpack, NPM scripts, Babel, Gulp
-- Docker
-- Vercel / Dokku
+- MongoDB, SQLite, Postgres 
+- Creating REST API, Web Sockets
+- Vite, Next.js, Rollup, Webpack, NPM scripts, Babel, Gulp
+- Docker, Vercel, Dokku
 
 ### Other
 
