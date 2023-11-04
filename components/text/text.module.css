@@ -6,6 +6,10 @@
   margin-top: 0;
 }
 
+.root:only-child {
+  margin-bottom: 0;
+}
+
 .h2 {
   margin-top: var(--s-5);
   margin-bottom: var(--s-3);
