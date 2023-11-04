@@ -1,7 +1,6 @@
 ## Summary 
 
-Web Software Engineer with ~12 years of experience. I began my journey in design, transitioned into web development, and eventually took on leadership roles, guiding teams. I'm proficient in creating design systems, love working on component libraries, tools, and enhancing user experience. I've participated in a wide range of projects, from design-focused non-profits to fintech startups.
-
+Web Software Engineer with ~12 years of experience. I began my journey in design, transitioned into web development, and eventually took on leadership roles, guiding teams. I'm proficient in creating design systems, love working on libraries, tools, and enhancing user experience. I've participated in a wide range of projects, from design-focused non-profits to fintech startups.
 
 ### Web Software Engineer @ [Apron Payments](https://getapron.com) <br /> September 2022 - Now
 
@@ -18,7 +17,7 @@ I joined Apron Payments, a recently created startup with a small team of ~15 peo
 
 ### Lead Web Software Engineer @ [Revolut](https://revolut.com/) <br /> November 2018 - August 2022
 
-I joined Revolut in November 2018 as a Senior Web Software Engineer on the [Revolut Business](https://business.revolut.com) team. During the first years, I participated in creating the acquiring product and a shared component library in a spare time that was used by more than 10 projects.
+I joined Revolut in November 2018 as a Senior Web Software Engineer on the [Revolut Business](https://business.revolut.com) team. During the first years, I participated in creating the acquiring product and in a spare time worked on a shared component library that was used by more than 10 projects in the company.
 
 These efforts led to my promotion to a lead role in July 2020, where I was responsible for creating and managing a new web design system team within the company. As a result, I oversaw a significant redesign and unification of all our web products. We built and maintained the components, guidelines, and tools for other web engineers.
 
@@ -80,14 +79,14 @@ Since the middle of 2016, I have worked as a lead web developer. The most signif
 </details>
 
 <details>
-<summary>Support</summary>
+<summary>Contributions</summary>
 
 - 2015-2018: [strelka.com](http://strelka.com)
     - PHP, jQuery
     - Legacy web site of Strelka Institute
 - 2016-2018: [apply.strelka.com](https://apply.strelka.com)
     - Meteor, CoffeScript, Stylus, Jade
-    - Internal platform for student application proccess
+    - Internal platform for student application process
 - 2015: [bigfuture.ru](http://bigfuture.ru)
     - PHP, jQuery
 - 2015: [futureurbanism.com](http://futureurbanism.com)
@@ -109,6 +108,10 @@ Small independent design studio in Moscow. The company no longer exist.
 <details>
 <summary>Projects</summary>
 
+- 2021: [`lil-match`](https://github.com/exah/lil-match)
+	- Super small pattern matching library for TS projects
+- 2020: [`nano-slots`](https://github.com/exah/nano-slots)
+	- A super lightweight [slot](http://developer.mozilla.org/en-US/docs/Web/HTML/Element/slot) implementation for React
 - 2020: [piny](https://dev.piny.link) for [server](https://github.com/exah/piny-api), [ios](https://github.com/exah/piny-ios) and web (wip)
 	- Personal social bookmarking service
 - 2019: [electricred.design](https://electricred.design/)
