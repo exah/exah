@@ -3,7 +3,7 @@
   --c-bg: white;
   --c-link-base: blue;
   --c-link-visited: purple;
-  --c-quote-bg: #efefef;
+  --c-quote-bg: #eee;
 
   color-scheme: light;
 }
@@ -13,7 +13,7 @@
   --c-bg: black;
   --c-link-base: royalblue;
   --c-link-visited: dimgray;
-  --c-quote-bg: #999;
+  --c-quote-bg: #222;
 
   color-scheme: dark;
 }
