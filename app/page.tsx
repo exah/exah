@@ -1,5 +1,11 @@
+import type { Metadata } from 'next'
 import CV from '../CV.md'
 import { Article, ContactLinks, Name, PrintButton } from '../components'
+
+export const metadata: Metadata = {
+  title: 'Ivan Grishin — CV',
+  description: 'Web Software Engineer with ~12 years of experience',
+}
 
 function Index() {
   return (
