@@ -1,34 +1,50 @@
-## Work
+## Summary 
 
-I started working in the web around 11 years ago as a designer + developer when I went to [university](https://design.hse.ru). For the past 5 years, I've been a web software engineer.
+Web Software Engineer with ~12 years of experience. I began my journey in design, transitioned into web development, and eventually took on leadership roles, guiding teams. I'm proficient in creating design systems, love working on libraries, tools, and enhancing user experience. I've participated in a wide range of projects, from design-focused non-profits to fintech startups.
+
+### Web Software Engineer @ [Apron Payments](https://getapron.com) <br /> September 2022 - Now
+
+I joined Apron Payments, a recently created startup with a small team of ~15 people, during its seed round of investment. In the first year, we built a complete solution for managing payments for business owners and bookkeepers with the goal of making their lives easier. We've successfully launched a product to public and raised our Series A funding in summer 2023.
+
+<details>
+<summary>Projects</summary>
+
+- 2023: [getapron.com](https://getapron.com)
+- 2022: [Apron Payments App](https://app.getapron.com) - participated in the development of every feature, created a shared component library & design system
+
+</details>
 
 
-### Lead Web Software Engineer @ [Revolut](https://revolut.com/) <br /> November 2018 - Now
+### Lead Web Software Engineer @ [Revolut](https://revolut.com/) <br /> November 2018 - August 2022
 
-I joined Revolut Moscow office in November 2018 as a Senior Web Software Engineer inside [Revolut Business](https://business.revolut.com) team. Alongside the acquiring solution, I developed a shared component library used by more than 10 projects inside the company because I had had prior experience of working on a similar project before.
+I joined Revolut in November 2018 as a Senior Web Software Engineer on the [Revolut Business](https://business.revolut.com) team. During the first years, I participated in creating the acquiring product and in a spare time worked on a shared component library that was used by more than 10 projects in the company.
 
-I moved to the Revolut London office in December 2019 while working on the first public beta release of our acquiring product. In July 2020 I got promoted to Lead Web Software Engineer and right now creating a new team for building a web design system.
+These efforts led to my promotion to a lead role in July 2020, where I was responsible for creating and managing a new web design system team within the company. As a result, I oversaw a significant redesign and unification of all our web products. We built and maintained the components, guidelines, and tools for other web engineers.
 
 <details>
 <summary>Projects</summary>
 
 - [Revolut Business](https://business.revolut.com)
 	- React, Testing Library, Styled Components
-	- Created and maintained Merchant dashboard
+	- Created and maintained a merchant dashboard
 - Revolut Merchant
-	- [Public API documentation](https://developer.revolut.com/docs/merchant-api/)
-	- [RevolutCheckout.js](https://developer.revolut.com/docs/merchant-api/#integration-guide) widget for accepting payments on external web site
--  Revolut UI Kit
-	-  Internal component library
+	- [Public API documentation](https://developer.revolut.com/docs/accept-payments)
+	- [RevolutCheckout.js](https://developer.revolut.com/docs/revolut-checkout-js) widget for accepting payments on external websites
+- Revolut UI Kit
+	- Component library & design system used by web projects
+	- Detailed documentation, pattern library, and internal blog
 
 </details>
 
 
 ### Web Developer @ [Strelka&nbsp;Institute](http://strelka.com) <br /> December 2015 - November 2018
 
-I started working in a small team of 3 people (designer, developer, and project manager) as a second developer. At first, I helped with current projects. Next, we developed a site for partnering educational programs with the Higher School of Economics ([advancedurbandesign.com](http://advancedurbandesign.com)) and a special project based on research done by Strelka students about malls in Seoul ([the-m-all.com](http://the-m-all.com)). These were my first serious end-to-end projects in the trade.
+> The institute ceased to exist after the start of the war in Ukraine. The links in the text below may not work anymore.
 
-Since the middle of 2016 worked as a lead web developer and the biggest projects for me were the next version of strelka.com (never released) and [strelkamag.com](https://strelkamag.com). For both, I developed a WYSIWYG editor and shared component/design system library.
+I started working in a small team of 3 people (designer, developer, and project manager) as a second developer. Initially, I assisted with ongoing projects. Next, we developed a site for partnering educational programs with the Higher School of Economics ([advancedurbandesign.com](http://advancedurbandesign.com)) and a special project for Strelka students based on their research about malls in Seoul ([the-m-all.com](https://karalevich.com/cases/disrupt-the-m-all)). These were my first serious end-to-end projects in the trade.
+
+Since the middle of 2016, I have worked as a lead web developer. The most significant projects for me were the next version of strelka.com and [strelkamag.com](https://strelkamag.com). For both, I developed a WYSIWYG editor and shared component/design system library.
+
 
 <details>
 <summary>Projects</summary>
@@ -45,7 +61,8 @@ Since the middle of 2016 worked as a lead web developer and the biggest projects
     - Tumblr theme
 - 2017: [thenewnormal.strelka.com](https://thenewnormal.strelka.com)
     - Vue.js, Vuex, SSR, Express, Stylus, PostCSS
-    - Featured on [hoverstat.es](https://hoverstat.es/features/the-new-normal)
+    - Featured on [hoverstat.es](https://hoverstat.es/features/the-new-normal), [siteinspire](https://www.siteinspire.com/websites/7488-the-new-normal)
+    - Project overview: https://karalevich.com/cases/the-new-normal
 - 2016: [shop.strelka.com](http://strelka.com/ru/press/books)
     - Meteor on backend, ES2015, React, Radium
     - Widget and API back-end
@@ -62,14 +79,14 @@ Since the middle of 2016 worked as a lead web developer and the biggest projects
 </details>
 
 <details>
-<summary>Support</summary>
+<summary>Contributions</summary>
 
 - 2015-2018: [strelka.com](http://strelka.com)
     - PHP, jQuery
     - Legacy web site of Strelka Institute
 - 2016-2018: [apply.strelka.com](https://apply.strelka.com)
     - Meteor, CoffeScript, Stylus, Jade
-    - Internal platform for student application proccess
+    - Internal platform for student application process
 - 2015: [bigfuture.ru](http://bigfuture.ru)
     - PHP, jQuery
 - 2015: [futureurbanism.com](http://futureurbanism.com)
@@ -80,7 +97,7 @@ Since the middle of 2016 worked as a lead web developer and the biggest projects
 
 ### Designer + Developer @ Foremost&nbsp;Design <br /> 2012 - December 2015
 
-Small independent studio in Moscow. No longer exists.
+Small independent design studio in Moscow. The company no longer exist.
 
 - Frontend (HTML / (S)CSS / JS / Vue.js / CoffeeScript)
 - Web and iOS UI designer (Sketch, Adobe PhotoShop, Illustrator, and After Effects)
@@ -91,6 +108,10 @@ Small independent studio in Moscow. No longer exists.
 <details>
 <summary>Projects</summary>
 
+- 2021: [`lil-match`](https://github.com/exah/lil-match)
+	- Super small pattern matching library for TS projects
+- 2020: [`nano-slots`](https://github.com/exah/nano-slots)
+	- A super lightweight [slot](http://developer.mozilla.org/en-US/docs/Web/HTML/Element/slot) implementation for React
 - 2020: [piny](https://dev.piny.link) for [server](https://github.com/exah/piny-api), [ios](https://github.com/exah/piny-ios) and web (wip)
 	- Personal social bookmarking service
 - 2019: [electricred.design](https://electricred.design/)
@@ -139,9 +160,9 @@ Small independent studio in Moscow. No longer exists.
 
 ### Development
 
-- Component libraries, Grids, Design systems
-- TypeScript, JavaScript (ES5, ES2015-2019), CoffeScript, PHP, Swift 5
-- Styled Components (Glamorous, Emotion), (S)CSS, Stylus
+- Component libraries, Design systems
+- TypeScript, JavaScript, CoffeScript, PHP, Swift 5
+- Styled Components (Glamorous, Emotion, Stitches), (S)CSS, Stylus
 - HTML, Markdown, Pug
 - Unit / integration testing with Testing Library
 - Node.js (8.0+), Deno 1.0

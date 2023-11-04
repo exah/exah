@@ -1,0 +1,21 @@
+.root {
+  list-style: none;
+  padding: 0;
+  margin: var(--s-2) 0;
+}
+
+.item {
+  padding-left: 2ch;
+  margin-bottom: var(--s-1);
+}
+
+.item::before {
+  content: '- ';
+  position: absolute;
+  margin-left: -2ch;
+}
+
+.item .root {
+  margin-top: var(--s-1);
+  margin-left: 2ch;
+}

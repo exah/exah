@@ -1,0 +1,19 @@
+[data-theme='light']:root {
+  --c-fg: black;
+  --c-bg: white;
+  --c-link-base: blue;
+  --c-link-visited: purple;
+  --c-quote-bg: #eee;
+
+  color-scheme: light;
+}
+
+[data-theme='dark']:root {
+  --c-fg: white;
+  --c-bg: black;
+  --c-link-base: royalblue;
+  --c-link-visited: dimgray;
+  --c-quote-bg: #222;
+
+  color-scheme: dark;
+}

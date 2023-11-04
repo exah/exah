@@ -1,5 +1,9 @@
-const withMDX = require('@next/mdx')({
+import remarkMdxDisableExplicitJsx from 'remark-mdx-disable-explicit-jsx'
+import nextMDX from '@next/mdx'
+
+const withMDX = nextMDX({
   extension: /\.mdx?$/,
+  options: { format: 'mdx', remarkPlugins: [remarkMdxDisableExplicitJsx] },
 })
 
-module.exports = withMDX()
+export default withMDX()
