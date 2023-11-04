@@ -57,6 +57,7 @@ export function Name() {
         width={640}
         height={640}
         className={styles.root}
+        loading="lazy"
         aria-hidden={!isEntered}
       />
     </>
