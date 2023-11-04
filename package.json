@@ -24,6 +24,13 @@
     "url": "https://github.com/exah/exah/issues"
   },
   "homepage": "https://github.com/exah/exah#readme",
+  "prettier": {
+    "arrowParens": "always",
+    "singleQuote": true,
+    "semi": false,
+    "trailingComma": "es5",
+    "printWidth": 80
+  },
   "devDependencies": {
     "@next/mdx": "^13.5.0",
     "@types/mdx": "^2.0.9",
