@@ -9,8 +9,8 @@
   --s-5: calc(var(--s-step, 0) * 5);
   --s-6: calc(var(--s-step, 0) * 6);
 
-  --f-system: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica,
-    Arial;
+  --f-monospace: 'Menlo', 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono',
+    Courier;
   --f-brand: 'iA Writer Duospace';
   --g-article: 'header header header nav' 'main main main main'
     'footer footer footer footer';
@@ -25,7 +25,7 @@
 
 :root {
   box-sizing: border-box;
-  font-family: var(--f-brand, ''), var(--f-system, ''), sans-serif;
+  font-family: var(--f-brand), var(--f-monospace), monospace;
   font-size: var(--s-rem, 100%);
   color: var(--c-fg, black);
   background-color: var(--c-bg, white);
