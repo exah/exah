@@ -97,7 +97,7 @@ Since the middle of 2016, I have worked as a lead web developer. The most signif
 
 ### Designer + Developer @ Foremost&nbsp;Design <br /> 2012 - December 2015
 
-Small independent design studio in Moscow. The company no longer exist.
+Small independent design studio in Moscow. The company no longer exists.
 
 - Frontend (HTML / (S)CSS / JS / Vue.js / CoffeeScript)
 - Web and iOS UI designer (Sketch, Adobe PhotoShop, Illustrator, and After Effects)
@@ -176,5 +176,5 @@ Small independent design studio in Moscow. The company no longer exist.
 
 - UI / UX, design in code (responsive versions, interactive prototypes)
 - Figma, Sketch, Framer, Adobe Photoshop, Illustrator, After Effects
-- English (IELT 7), Russian (native), Ukrainian
+- English (IELTS 7), Russian (native), Ukrainian
 - Prefer macOS
