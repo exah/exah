@@ -1,5 +1,5 @@
-import styles from './list.module.css'
 import { cx } from '../../utils'
+import styles from './list.module.css'
 
 export interface ListProps extends React.ComponentPropsWithoutRef<'ul'> {}
 
