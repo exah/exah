@@ -1,6 +1,12 @@
 import type { Metadata } from 'next'
 import CV from '../CV.md'
-import { Article, ContactLinks, Name, PrintButton } from '../components'
+import {
+  Article,
+  ContactLinks,
+  Name,
+  PrintButton,
+  PrintFooter,
+} from '../components'
 
 export const metadata: Metadata = {
   title: 'Ivan Grishin — CV',
@@ -37,6 +43,7 @@ function Index() {
           marginTop: '2rem',
         }}
       >
+        <PrintFooter />
         <PrintButton />
       </footer>
     </Article>
