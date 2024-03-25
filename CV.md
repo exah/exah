@@ -26,11 +26,6 @@ The efforts in the Acquiring Team and contributions to the component library led
 <details>
 <summary>Projects</summary>
 
-- [Revolut Business](https://business.revolut.com)
-  - Started and maintained a merchant dashboard for Acquiring
-- Acquiring
-  - Started [Public API documentation](https://developer.revolut.com/docs/accept-payments)
-  - Started [RevolutCheckout.js](https://developer.revolut.com/docs/revolut-checkout-js) widget for accepting payments on external websites
 - Revolut UI Kit
   - Took ownership of the component library & design system used by web projects
   - Significantly contributed to the component library development (single maintainer in the beginning)
@@ -38,6 +33,11 @@ The efforts in the Acquiring Team and contributions to the component library led
   - Worked as a core contributor, manager of 2 people in the team, and (in a way) product owner who set KPIs for the team
   - Collaborated with stakeholders, engineers, and designers
   - Worked on components, design tokens, documentation, pattern library, and internal blog
+- [Acquiring](https://www.revolut.com/business/accept-payments/)
+  - Started [Public API documentation](https://developer.revolut.com/docs/accept-payments)
+  - Started [RevolutCheckout.js](https://developer.revolut.com/docs/revolut-checkout-js) widget for accepting payments on external websites
+- [Revolut Business](https://business.revolut.com)
+  - Started and maintained a merchant dashboard for Acquiring
 
 </details>
 
